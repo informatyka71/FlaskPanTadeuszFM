@@ -58,8 +58,5 @@ Strona główna zawiera linki do poszczególnych ksiąg "Pana Tadeusza". Klikni�
 
 ## Autor
 
-Filip Moskała, Uniwersytet Ekonomiczny w Krakowie, ZIISN1-1212
+Filip Moskała
 
-## Licencja
-
-Projekt jest dostępny na licencji MIT. Szczegółowe informacje znajdują się w pliku `LICENSE`.
