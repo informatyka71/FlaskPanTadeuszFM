@@ -40,7 +40,6 @@ your_project/
 │   └── index.html
 │
 ├── app.py
-└── requirements.txt
 ```
 
 ## Uruchomienie aplikacji
